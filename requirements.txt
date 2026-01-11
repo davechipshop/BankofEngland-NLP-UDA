@@ -1,0 +1,7 @@
+pandas
+numpy
+os
+requests
+bs4
+lxml
+nltk
